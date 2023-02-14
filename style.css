@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: papayawhip;
+}
+
+.conteiner {
+    display: flex;
+    margin: 200px;
+    border-radius: 10px;
+    width: 600px;    
+}
+img {
+    display: flex;
+    width: 300px;
+    border-radius: 10px 0 0 10px;
+}
+
+.text {
+    background-color: hsl(0, 0%, 100%);
+    padding: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color:hsl(228, 12%, 48%);
+    border-radius: 0 10px 10px 0;
+}
+
+header {
+    margin-bottom: 15px; 
+}
+
+.gabrielle {
+    font-family: 'Fraunces', serif;
+    font-size: 32px;
+    color: black;
+    margin-bottom: 20px;
+}
+.paragrafo{
+    justify-content: center;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+.verde{
+    color: rgb(48, 99, 78);
+    font-family: 'Fraunces', serif;
+}
+
+.preco {
+    display: flex;
+    align-items: center;
+}
+.promocao {
+    display: flex;
+    margin-left: 20px;
+}
+
+button {
+    display: flex;
+    margin-top: 20px;
+    background-color: rgb(48, 99, 78) ;
+    width: 210px;
+    height: 50px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+
+    
+}
+
+.carrinho {
+    display: flex;
+    width: 20px; 
+    height: 20px;
+    margin-right: 8px;
+}
