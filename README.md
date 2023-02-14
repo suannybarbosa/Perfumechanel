@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://suannybarbosa.github.io/Perfume/)
+- [Acesse o projeto finalizado, online](https://suannybarbosa.github.io/Perfumechanel/)
 
 
 
